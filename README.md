@@ -1,4 +1,3 @@
 # laplace-project
 
-
-∇2u=∂x2∂2u​+∂y2∂2u​+∂z2∂2u​=0
+∇²u = ∂²u/∂x² + ∂²u/∂y² + ∂²u/∂z² = 0
