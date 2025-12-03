@@ -1,14 +1,4 @@
 # laplace-project
 
 
-[
-\nabla^2 u
-==========
-
-\frac{\partial^2 u}{\partial x^2}
-+
-\frac{\partial^2 u}{\partial y^2}
-+
-\frac{\partial^2 u}{\partial z^2}
-= 0
-]
+∇2u=∂x2∂2u​+∂y2∂2u​+∂z2∂2u​=0
